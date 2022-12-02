@@ -1,0 +1,6 @@
+# ninja log v5
+0	229	1670002026743901555	CMakeFiles/l2t2.dir/TicketData.cpp.o	8eb6f6cc358cf146
+0	252	1670002026767093042	CMakeFiles/l2t2.dir/main.cpp.o	f234fc1a1b3370d5
+0	304	1670002026818835303	CMakeFiles/l2t2.dir/BookingSystemUI.cpp.o	4799e623988f4f6d
+0	374	1670002026889218706	CMakeFiles/l2t2.dir/BookingSystem.cpp.o	ffa773a29e68f3d3
+374	402	1670002026918829928	l2t2	1b20cb270f3f8ff7
